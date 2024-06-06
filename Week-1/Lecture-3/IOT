@@ -1,9 +1,1 @@
-n this lecture i have studied about frontend and backend and how is work
-frontend is connected with backend and backend is connected with database
-there can be more than one backend and server 
-
-for frontend we study React
-for backend we study Node ,Express
-for database we study mongoDb
-
-i have posted a pic of that flow in folder _03_lecture
+In this lecture, I explored the concepts of frontend and backend development and how they interact within a web application. The frontend, responsible for the user interface, communicates with the backend, which handles server-side logic and connects to the database. This architecture can involve multiple backends and servers to enhance scalability and performance. Specifically, we focused on using React for building the frontend, Node.js and Express.js for managing the backend, and MongoDB for database operations. This comprehensive approach ensures a robust understanding of how different components work together to create dynamic, efficient web applications.
