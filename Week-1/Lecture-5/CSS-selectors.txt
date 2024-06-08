@@ -1,0 +1,13 @@
+There are 5 seclectors
+1.Simple selectors (select elements based on name, id, class)
+2.Combinator selectors (select elements based on a specific relationship between them)
+3.Pseudo-class selectors (select elements based on a certain state)
+4.Pseudo-elements selectors (select and style a part of an element)
+5.Attribute selectors (select elements based on an attribute or attribute value)
+
+For Combinatorselectors:
+
+1.Descendant Selector
+2.Child Selector
+3.Adjacent Sibling Selector
+4.General Sibling Selector

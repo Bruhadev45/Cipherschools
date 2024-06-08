@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman', Times, serif
+  }
+  h3{
+    text-align: center;
+  }
+  #para1{
+    background-color: aqua;
+    color:blanchedalmond
+  }
+  
+  para1,para2,para3{
+    color:chocolate
+  }
+  
+  div>p{
+    background-color: yellow;
+  }
+  
+  div+p{  /*adjacent Sibling selector(only one)*/
+    background-color:chocolate;
+  }
+  
+  h3~h4{  /*adjacent Sibling selector(All)*/
+    background-color:crimson
+  }
+  
+  #hoverid:hover{
+    background-color:honeydew
+    color:cornsilk
+  }
+  
+  #hoverid::first-letter{
+    color:gold
+  }
+  
+  a[target]{
+    color:yellow
+  }
