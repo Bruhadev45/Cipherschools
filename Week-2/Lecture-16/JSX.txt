@@ -1,0 +1,5 @@
+1.JSX loads and renders LIKE HTML.
+2.JSX can contain 2 things: 
+a. HTML tags
+b. React Components
+3.JSX allows us to write JS code inside.
