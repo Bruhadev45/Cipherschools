@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import WeatherSummery from "../components/WeatherSummery";
 import WeatherDays from "../components/WeatherDays";
+import WeatherSummery from "../components/WeatherSummery";
 
 const fetchCordinates = (setLatitude,setLongitude) => {
   navigator.geolocation.getCurrentPosition(
@@ -23,7 +23,7 @@ function WeatherPage() {
 
   return (
     <div className="flex w-[80%] flex-col items-center justify-center border mx-auto bg-gray-700 rounded-lg p-5 text-white">
-      <h1 className="text-3xl font-semibold">Weather Page</h1>
+      <h1 className="text-3xl font-semibold">Weather website</h1>
       <div className="w-full text-right px-4">
         <button
           className="rounded px-5 text-xl font-semibold bg-gray-400"
